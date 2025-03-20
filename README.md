@@ -1,6 +1,6 @@
-### Eae! eu sou o Rick 👋🏼 aprendendo programação e interessado por hacking
+### Oi! eu sou o Rick 👋🏼 aprendendo programação e interessado por hacking
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/stt1.py/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idk.stt1/)
 
 ![Sttorm Github Stats](https://github-readme-stats.vercel.app/api?username=RickStt1&show_icons=true&theme=dark)
 
